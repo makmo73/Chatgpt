@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.swp
+node_modules/
+.env.local
+
